@@ -1,0 +1,5 @@
+C:\Users\Fede\Desktop\TP01.Bis\obj\Debug\net6.0\TP01.Bis.csproj.AssemblyReference.cache
+C:\Users\Fede\Desktop\TP01.Bis\obj\Debug\net6.0\TP01.Bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fede\Desktop\TP01.Bis\obj\Debug\net6.0\TP01.Bis.AssemblyInfoInputs.cache
+C:\Users\Fede\Desktop\TP01.Bis\obj\Debug\net6.0\TP01.Bis.AssemblyInfo.cs
+C:\Users\Fede\Desktop\TP01.Bis\obj\Debug\net6.0\TP01.Bis.csproj.CoreCompileInputs.cache
